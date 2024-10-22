@@ -5,6 +5,12 @@ Welcome to my blog: [iThome XianYu]([https://ceeyu.github.io/](https://ithelp.it
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeyu&layout=compact)
 ![Ceeyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceeyu&show_icons=true&hide=prs,issues,contribs)
+![GitHub Followers](https://img.shields.io/github/followers/ceeyu?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/ceeyu?style=social)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/你的用戶名)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <!--
 **ceeyu/ceeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
