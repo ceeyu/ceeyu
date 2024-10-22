@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## My name is YU SHAO-HSIEN, welcome to my GitHub
 
-Welcome to my blog: [iThome XianYu]([https://ceeyu.github.io/](https://ithelp.ithome.com.tw/users/20151593/articles))
+Welcome to my blog: [iThome XianYu](https://ithelp.ithome.com.tw/users/20151593/articles)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceeyu&layout=compact)
 ![Ceeyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceeyu&show_icons=true&hide=prs,issues,contribs)
